@@ -1,0 +1,40 @@
+
+body {
+    background-color: #010011;
+    font-family: Arial, sans-serif;
+}
+
+#destaque {
+    color: lightblue;
+    border-style: solid;
+}
+
+.bonitinho {
+    background-color: rgba(47, 43, 80, 0.5);
+}
+
+.space {
+    padding: 0.9rem;
+}
+
+ul {
+    background-color: rgb(95, 95, 98);
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    display: inline;
+    margin-left: 15px;
+    height: 100%;
+}
+
+li:hover {
+    background-color: lightblue;
+    transition: all 0.3s ease;
+}
+
+li a{
+    color: #010011;
+    text-decoration: none;
+}
