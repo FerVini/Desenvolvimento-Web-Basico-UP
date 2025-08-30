@@ -1,0 +1,13 @@
+body {
+    background-color: aliceblue;
+    font-family:  Helvetica, Arial, sans-serif;
+}
+
+.tabela-simples {
+    padding: 3%;
+}
+
+td:hover {
+    background-color: #000;
+    color: #fff;
+}
