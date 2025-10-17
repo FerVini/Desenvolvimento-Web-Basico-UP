@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+ }
+
+ header {
+    text-align: center;
+ }
+
+ .formulario {
+    margin: 0 2rem;
+    border: 2px dashed black;
+    padding: 1rem;
+ }
+
+ input {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+ }
